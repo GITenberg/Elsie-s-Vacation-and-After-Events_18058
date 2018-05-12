@@ -1,0 +1,41 @@
+_repo: Elsie-s-Vacation-and-After-Events_18058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: Enter the world of Elsie Dinsmore with the 17th book of the series! These
+  nineteenth century fictional chronicles of a beautiful young heiress in the Civil
+  War South have captivated generations of 10-14 year old readers eager to follow
+  Elsies life from childhood to motherhood and beyond. Youll find traditional values,
+  tender romance, family fun, and lasting lessons for a new generation!
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vacations -- Juvenile fiction'
+title: Elsie's Vacation and After Events
+url: http://www.gutenberg.org/ebooks/18058
